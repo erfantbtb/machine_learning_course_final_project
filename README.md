@@ -37,7 +37,7 @@ After installation, for running the UI, we use streamlit CLI:
 ```bash
   streamlit run main.py
 ```
-![User Interface](https://github.com/erfantbtb/machine_learning_course_final_project/blob/main/pics/ui.png)
+![User Interface](https://github.com/erfantbtb/machine_learning_course_final_project/blob/main/repo_images/ui.png)
 
 ## Authors
 
