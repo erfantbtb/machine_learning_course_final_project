@@ -27,7 +27,7 @@ Cloning and installing python dependencies:
   cd machine_learning_course_final_project
   python3 -m venv ml_venv
   source ml_venv/bin/activate
-  pip install -r requirments.txt
+  pip install -r requirements.txt
 ```
 
 ## Run Locally
