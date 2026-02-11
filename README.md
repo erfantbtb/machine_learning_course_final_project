@@ -25,7 +25,7 @@ Clone the repository:
 Cloning and installing python dependencies:
 ```bash
   cd machine_learning_course_final_project
-  python -m venv ml_venv
+  python3 -m venv ml_venv
   source ml_venv/bin/activate
   pip install requirments.txt
 ```
